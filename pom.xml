@@ -97,13 +97,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>aj</id>
 	      <name>AJtech Releases Nexus Repository</name>
 	      <url>http://3.110.135.174:9347/ajtech/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>aj</id>
 	      <name>AJtech Snapshot Nexus Repository </name>
 	      <url>http://3.110.135.174:9347/ajtech/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
