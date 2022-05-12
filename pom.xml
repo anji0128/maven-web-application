@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.111.31.194:9347/ajtech/</sonar.host.url>
+		<sonar.host.url>http://43.204.141.186:9347/ajtech/</sonar.host.url>
                 <sonar.login>f5e9a9710a9f7247d31784e675ba012a1badb605</sonar.login>
 		
              
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>aj1</id>
 	      <name>Releases Nexus Repository</name>
-	      <url>http://13.233.82.166:9347/ajtech/repository/flipkart-release/</url>
+	      <url>http://13.235.78.13:9347/ajtech/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>aj1</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://13.233.82.166:9347/ajtech/repository/flipkart-snapshot/</url>
+	      <url>http://13.235.78.13:9347/ajtech/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
