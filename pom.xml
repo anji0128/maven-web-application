@@ -103,7 +103,7 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>aj1</id>
+	      <id>nexus-releases</id>
 	      <name>Snapshot Nexus Repository </name>
 	      <url>http://3.108.219.159:9347/ajtech/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
