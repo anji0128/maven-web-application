@@ -4,7 +4,7 @@
 	
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
-	<version>0.0.1-20220507.024516-1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	
 	<name>maven-web-application</name>
@@ -31,6 +31,12 @@
 	</properties>
 
 	<dependencies>
+		<dependency>
+                        <groupId>com.mt</groupId>
+                        <artifactId>maven-web-application</artifactId>
+                        <version>0.0.1-20220507.024516-1</version>
+                        <type>war</type>
+                </dependency>
 		
 		<dependency>
 			<groupId>org.json</groupId>
