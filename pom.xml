@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>aj</id>
 	      <name>Releases Nexus Repository</name>
-	      <url>http://13.126.247.253:9347/ajtech/repository/flipkart-release/</url>
+	      <url>http://65.0.199.126:9347/ajtech/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>aj</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://13.126.247.253:9347/ajtech/repository/flipkart-snapshot/</url>
+	      <url>http://65.0.199.126:9347/ajtech/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
